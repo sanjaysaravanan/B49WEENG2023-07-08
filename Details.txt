@@ -1,0 +1,39 @@
+Topics:
+
+  JSON:
+    file format used to store data like js object and array of objects.
+
+  Copy by value and Copy by reference
+
+  Copy by value: primitive types are always copied by value 
+    change in local scope does not affect/change the global scope value
+  Copy by reference: composite types
+    Change in local scope affect/changes the global scope value
+
+  Hoisting:
+    hositing the variable and functions
+
+  XMLHTTPRequest:
+    interating with online APIs ( Application Programming Interface )
+
+    if string is full of json format, can we convert it to js object
+      JSON.parse(); // convert to string json to js object/array
+    
+    convert js object to string json
+      JSON.stringify(); // convert to string
+    
+  function:
+    parameter and default parameter
+    return in function scope
+
+Next Session:
+  Codekata:
+    number --> iteration through digits
+    Prime Number
+    Basic Sorting
+  
+  types of function:
+    named function
+    anonymous function
+    IIFE
+    arrow function

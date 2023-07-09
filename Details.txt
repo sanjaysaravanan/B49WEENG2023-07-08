@@ -12,6 +12,7 @@ Topics:
 
   Hoisting:
     hositing the variable and functions
+    Moving the declaration to the top
 
   XMLHTTPRequest:
     interating with online APIs ( Application Programming Interface )
